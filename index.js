@@ -1,2 +1,2 @@
 exports.App = require('./lib/App');
-exports.static = require('./lib/static');  //huyuyuyuyuy
+exports.static = require('./lib/static');  //test
