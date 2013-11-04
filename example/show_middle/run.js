@@ -1,4 +1,4 @@
-var App = require('../..').App;
+var App = require('../..').App; // 相当于获取都index.js
 var app = new App();
 var middle01 = require('./middle01');
 var middle02 = require('./middle02');
