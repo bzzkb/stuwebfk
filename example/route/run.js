@@ -15,7 +15,7 @@ app.get( '/contant' ,function( request , response ) {
 app.use( static('/public') );
 
 app.get( '/about.html' , function( request , response ){
-   // response.write('<h2>hello</h2>');
+    response.write('<h2>hello</h2>');
     response.end();
 
 } );
